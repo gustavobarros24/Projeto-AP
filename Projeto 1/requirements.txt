@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+torch
+datasets
+jupyter
+python-dotenv
+groq
+transformers
+optuna
+ipykernel
+tiktoken
+sentencepiece
